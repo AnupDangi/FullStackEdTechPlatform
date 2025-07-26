@@ -21,7 +21,7 @@ A comprehensive Learning Management System built with Node.js, Express, MongoDB,
 ### Student Portal
 - **Course Catalog**: Browse available courses with modern UI
 - **Smart Navigation**: Automatic redirect based on enrollment status
-- **Payment Integration**: Razorpay payment gateway for paid courses
+- **Payment Integration**: Razorpay payment gateway for paid courses (Next Feature)
 - **Learning Interface**: Video player with course progress tracking
 - **Enrollment Management**: Seamless enrollment process
 - **Responsive Design**: Mobile-friendly interface
@@ -54,7 +54,6 @@ A comprehensive Learning Management System built with Node.js, Express, MongoDB,
 - Node.js (v18 or higher)
 - MongoDB
 - Cloudinary account
-- Razorpay account (test mode)
 
 ### Backend Setup
 
