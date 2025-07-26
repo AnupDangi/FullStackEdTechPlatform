@@ -2,10 +2,6 @@
 
 A comprehensive Learning Management System built with Node.js, Express, MongoDB, and Next.js featuring course management,Video and Image Storage in Cloudinary, and student learning portal.
 
-## 🎥 Demo Video
-
-[Click to watch the demo](./assets/demo.mp4)
-
 *Note: All videos used in this project are for educational purposes only.*
 
 ## Features
