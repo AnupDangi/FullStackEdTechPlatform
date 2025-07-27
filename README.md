@@ -6,7 +6,21 @@ A comprehensive Learning Management System built with Node.js, Express, MongoDB,
 
 
 ## Screenshots
+
 <img width="1901" height="917" alt="image" src="https://github.com/user-attachments/assets/094b0a0e-77bf-43b7-823f-d4066689678f" />
+<img width="1893" height="919" alt="image" src="https://github.com/user-attachments/assets/a4b04823-2b1e-467b-9a30-530df6c61e73" />
+<img width="1902" height="921" alt="image" src="https://github.com/user-attachments/assets/9184c2c9-1349-4c82-889a-ed4187d684b6" />
+<img width="1902" height="921" alt="image" src="https://github.com/user-attachments/assets/600ef465-0d4f-452d-9ccb-aa994276b669" />
+<img width="1889" height="925" alt="image" src="https://github.com/user-attachments/assets/46e8a789-feab-4d5e-94b3-1def05a3ac4a" />
+<img width="1878" height="923" alt="6" src="https://github.com/user-attachments/assets/c8456984-6db6-486f-9652-839f5a54b6c0" />
+<img width="1902" height="922" alt="7" src="https://github.com/user-attachments/assets/e0ccf99b-44b0-4a7f-ab97-5dd9440753de" />
+<img width="1887" height="920" alt="8" src="https://github.com/user-attachments/assets/12916a92-3ea3-4a0d-affd-ef9ced0c9856" />
+<img width="1902" height="923" alt="9" src="https://github.com/user-attachments/assets/bcd03b9d-04de-44b8-99bd-31145cd7a8f0" />
+<img width="1900" height="919" alt="10" src="https://github.com/user-attachments/assets/3e53801f-5b13-4143-9e6d-a3cfd36d478e" />
+<img width="1883" height="922" alt="11" src="https://github.com/user-attachments/assets/15da4c2d-c430-4937-a8b0-441e19b734b3" />
+<img width="1884" height="918" alt="12" src="https://github.com/user-attachments/assets/59e4f520-d917-4ff8-8e76-6eecf17b6bf2" />
+<img width="1903" height="923" alt="13" src="https://github.com/user-attachments/assets/05f48d40-dba3-4dbf-8d34-3027d04eacf7" />
+<img width="1903" height="921" alt="14" src="https://github.com/user-attachments/assets/ccabc283-0d2f-4a01-9deb-d425f4745709" />
 
 
 ## Features
