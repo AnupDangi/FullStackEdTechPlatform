@@ -4,6 +4,11 @@ A comprehensive Learning Management System built with Node.js, Express, MongoDB,
 
 *Note: All videos used in this project are for educational purposes only.*
 
+
+## Screenshots
+<img width="1901" height="917" alt="image" src="https://github.com/user-attachments/assets/094b0a0e-77bf-43b7-823f-d4066689678f" />
+
+
 ## Features
 
 ### Admin Dashboard
